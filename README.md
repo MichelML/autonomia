@@ -95,7 +95,65 @@ pnpm build
 
 ## Contributing
 
-_Guidelines for contributing to the project. Please read these before submitting pull requests._
+We welcome contributions to Autonomia! Here's how you can help:
+
+### Development Workflow
+
+1. **Fork the repository** - Click the "Fork" button on the top right of the repository page
+2. **Clone your fork** - Clone your forked repository to your local machine
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/autonomia.git
+   cd autonomia
+   ```
+3. **Create a branch** - Create a new branch for your feature or bug fix
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Install dependencies** - Install project dependencies
+   ```bash
+   pnpm install
+   ```
+5. **Make your changes** - Implement your feature or bug fix
+6. **Test your changes** - Ensure all tests pass
+   ```bash
+   pnpm test
+   ```
+7. **Build the project** - Verify the project builds successfully
+   ```bash
+   pnpm build
+   ```
+8. **Commit your changes** - Use descriptive commit messages
+   ```bash
+   git add .
+   git commit -m "feat: add your feature description"
+   ```
+9. **Push to your fork** - Push your changes to your forked repository
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+10. **Create a Pull Request** - Open a pull request from your fork to the main repository
+
+### Commit Message Guidelines
+
+- Use conventional commit format: `type(scope): description`
+- Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+- Keep the first line under 72 characters
+- Add a detailed description if necessary
+
+### Code Style
+
+- Follow the existing code style
+- Run linting before committing
+- Write meaningful variable and function names
+- Add comments for complex logic
+
+### Pull Request Guidelines
+
+- Provide a clear description of the changes
+- Reference any related issues
+- Ensure all tests pass
+- Update documentation if needed
+- Keep pull requests focused on a single feature or fix
 
 ## License
 
@@ -125,6 +183,10 @@ SOFTWARE.
 
 ## Contact
 
-_Contact information and links to relevant resources._
+For questions, suggestions, or discussions about the project:
 
-- Project Link: [https://github.com/MichelML/autonomia](https://github.com/MichelML/autonomia)
+- **GitHub**: [@MichelML](https://github.com/MichelML)
+- **Email**: michmoreau.l@gmail.com
+- **Project Link**: [https://github.com/MichelML/autonomia](https://github.com/MichelML/autonomia)
+
+Feel free to open an issue on GitHub for bug reports or feature requests.
