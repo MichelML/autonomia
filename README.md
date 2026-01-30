@@ -42,18 +42,19 @@ Before you begin, ensure you have the following installed:
 - **Node.js**: v22.x or later (LTS recommended)
   - Download from [nodejs.org](https://nodejs.org/)
   - Verify installation: `node --version`
-- **npm**: v10.x or later (comes with Node.js)
-  - Verify installation: `npm --version`
+- **pnpm**: v9.x or later (package manager)
+  - Install: `npm install -g pnpm` or see [pnpm.io](https://pnpm.io/installation)
+  - Verify installation: `pnpm --version`
 - **TypeScript**: v5.9.x or later
   - Install globally: `npm install -g typescript`
   - Verify installation: `tsc --version`
 
 ### Installation
 
-_Step-by-step installation instructions will be provided here._
+To install the project dependencies, run the following command at the root of the repository:
 
 ```bash
-# Installation commands will go here
+pnpm install
 ```
 
 ## Usage
