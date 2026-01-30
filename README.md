@@ -10,11 +10,9 @@ Simple test project to learn the best DX to develop with an army of agents.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Architecture](#architecture)
-- [Development](#development)
-  - [Running Tests](#running-tests)
-  - [Building](#building)
+- [Running Tests](#running-tests)
+- [Building](#building)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -65,17 +63,9 @@ _Examples and instructions for how to use Autonomia._
 # Usage examples will go here
 ```
 
-## Configuration
-
-_Configuration options and how to customize Autonomia for your needs._
-
 ## Architecture
 
 _High-level architecture overview and design decisions._
-
-## Development
-
-_Information for developers who want to contribute or work on the project._
 
 ### Running Tests
 
