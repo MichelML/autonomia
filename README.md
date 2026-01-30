@@ -37,10 +37,16 @@ _Instructions for getting started with Autonomia._
 
 ### Prerequisites
 
-_List of prerequisites needed before installation:_
+Before you begin, ensure you have the following installed:
 
-- Prerequisite 1
-- Prerequisite 2
+- **Node.js**: v22.x or later (LTS recommended)
+  - Download from [nodejs.org](https://nodejs.org/)
+  - Verify installation: `node --version`
+- **npm**: v10.x or later (comes with Node.js)
+  - Verify installation: `npm --version`
+- **TypeScript**: v5.9.x or later
+  - Install globally: `npm install -g typescript`
+  - Verify installation: `tsc --version`
 
 ### Installation
 
