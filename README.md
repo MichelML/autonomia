@@ -79,18 +79,18 @@ _Information for developers who want to contribute or work on the project._
 
 ### Running Tests
 
-_Instructions for running the test suite._
+To run the test suite, use the following command:
 
 ```bash
-# Test commands will go here
+pnpm test
 ```
 
 ### Building
 
-_Instructions for building the project._
+To build the project, use the following command:
 
 ```bash
-# Build commands will go here
+pnpm build
 ```
 
 ## Contributing
